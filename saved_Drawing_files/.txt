@@ -1,0 +1,4 @@
+0	0	255	0	255	0	255	255	255	
+2
+Square	0	267	168	206	BLUE	No-Fill-color
+Elipse 	0	677	218	573	363	BLUE	No-Fill-color
